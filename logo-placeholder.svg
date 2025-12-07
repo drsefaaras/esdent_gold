@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="60" viewBox="0 0 150 60">
+  <rect width="150" height="60" fill="#1e40af" rx="8"/>
+  <text x="75" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">ESDENT</text>
+  <text x="75" y="45" font-family="Arial, sans-serif" font-size="14" fill="#fbbf24" text-anchor="middle">GOLD</text>
+</svg>
